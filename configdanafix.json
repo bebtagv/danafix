@@ -1,0 +1,180 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://sites.google.com/view/lunomosikvid",
+	  "email_feedback_and_report": "lynoku.square7@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "0",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "ironsource",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#852185589700306_852186069700258",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#852185589700306_852186126366919",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#852185589700306_852186176366914",
+      "startapp_app_id": "0",
+      "unity_game_id": "16846af25",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "1a6912d95",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 2,
+      "native_ad_index": 1,
+      "native_ad_interval": 5,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Tips Pinjaman Online DanaFix",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danapix%2Fbannerdanapik.png?alt=media&token=c3a169d0-c52a-4d8f-84b4-afa449e0d11a"
+    }
+  ],
+  "posts": [{
+      "id": 1,
+      "category": "Tips Pinjaman Online DanaFix",
+      "title": "Tentang Aplikasi Danafix Pinjaman Online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danapix%2Fbannerdanapik.png?alt=media&token=c3a169d0-c52a-4d8f-84b4-afa449e0d11a",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danapix%2F1%20Tentang%20Aplikasi%20Danafix%20Pinjaman%20Online.html?alt=media&token=2ae6566b-2de9-4e7c-a16e-7763e0e189b1",
+      "video": ""
+    },{
+      "id": 2,
+      "category": "Tips Pinjaman Online DanaFix",
+      "title": "CKelebihan Aplikasi Danafix Pinjaman Online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danapix%2Fbannerdanapik.png?alt=media&token=c3a169d0-c52a-4d8f-84b4-afa449e0d11a",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danapix%2F2%20Kelebihan%20Aplikasi%20Danafix%20Pinjaman%20Online.html?alt=media&token=ba0f3342-6a90-4dde-a611-5d04dfa3adb3",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "Tips Pinjaman Online DanaFix",
+      "title": "Cara Daftar Aplikasi Danafix Pinjaman Online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danapix%2Fbannerdanapik.png?alt=media&token=c3a169d0-c52a-4d8f-84b4-afa449e0d11a",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danapix%2F3%20Cara%20Daftar%20Aplikasi%20Danafix%20Pinjaman%20Online.html?alt=media&token=d09cd967-9404-4c67-89ff-d5d63849497e",
+      "video": ""
+    },{
+      "id": 4,
+      "category": "Tips Pinjaman Online DanaFix",
+      "title": "Cara Menghubungi Admin DanaFix Pinjaman Online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danapix%2Fbannerdanapik.png?alt=media&token=c3a169d0-c52a-4d8f-84b4-afa449e0d11a",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danapix%2F4%20Cara%20Menghubungi%20Admin%20DanaFix%20Pinjaman%20Online.html?alt=media&token=26e37441-95ef-4fa7-9807-b82b28da618d",
+      "video": ""
+    },{
+      "id": 5,
+      "category": "Tips Pinjaman Online DanaFix",
+      "title": "Cara Menentukan Tenor Pinjaman Online yang Tepat",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danapix%2Fbannerdanapik.png?alt=media&token=c3a169d0-c52a-4d8f-84b4-afa449e0d11a",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danapix%2F5%20Cara%20Menentukan%20Tenor%20Pinjaman%20Online%20yang%20Tepat.html?alt=media&token=5ebc0892-35cf-4ba6-bba7-1e8a57ae829a",
+      "video": ""
+    },{
+      "id": 6,
+      "category": "Tips Pinjaman Online DanaFix",
+      "title": "Daftar Lender Pinjaman Online Dengan Tenor Panjang",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danapix%2Fbannerdanapik.png?alt=media&token=c3a169d0-c52a-4d8f-84b4-afa449e0d11a",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danapix%2F6%20Daftar%20Lender%20Pinjaman%20Online%20Dengan%20Tenor%20Panjang.html?alt=media&token=6ea66c07-36b3-43e8-9ef0-f3cb02bf98a5",
+      "video": ""
+    },{
+      "id": 7,
+      "category": "Tips Pinjaman Online DanaFix",
+      "title": "Daftar Lender Pinjaman Online dengan Bunga Rendah",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danapix%2Fbannerdanapik.png?alt=media&token=c3a169d0-c52a-4d8f-84b4-afa449e0d11a",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danapix%2F7%20Daftar%20Lender%20Pinjaman%20Online%20dengan%20Bunga%20Rendah.html?alt=media&token=c54ca1e0-a317-4953-9516-b190c8268cae",
+      "video": ""
+    },{
+      "id": 8,
+      "category": "Tips Pinjaman Online DanaFix",
+      "title": "Resiko Gagal Bayar Pinjaman Online",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danapix%2Fbannerdanapik.png?alt=media&token=c3a169d0-c52a-4d8f-84b4-afa449e0d11a",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danapix%2F8%20Resiko%20Gagal%20Bayar%20Pinjaman%20Online.html?alt=media&token=3b4d3fe7-6f0c-4811-8557-b49c9f997c27",
+      "video": ""
+    },{
+      "id": 9,
+      "category": "Tips Pinjaman Online DanaFix",
+      "title": "Tips Terhindar dari Gagal Bayar Galbay",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danapix%2Fbannerdanapik.png?alt=media&token=c3a169d0-c52a-4d8f-84b4-afa449e0d11a",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danapix%2F9%20Tips%20Terhindar%20dari%20Gagal%20Bayar%20Galbay.html?alt=media&token=c7c4f02c-b0dc-4b76-b4a4-9b3f028d5834",
+      "video": ""
+    },{
+      "id": 10,
+      "category": "Tips Pinjaman Online DanaFix",
+      "title": "Daftar Bank yang Memberikan Pinjaman Tanpa Agunan",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danapix%2Fbannerdanapik.png?alt=media&token=c3a169d0-c52a-4d8f-84b4-afa449e0d11a",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danapix%2F10%20Daftar%20Bank%20yang%20Memberikan%20Pinjaman%20Tanpa%20Agunan.html?alt=media&token=d4378469-d00b-4f59-ad44-58b6788045f2",
+      "video": ""
+    },{
+      "id": 11,
+      "category": "Tips Pinjaman Online DanaFix",
+      "title": "Tips Bayar Pinjaman Online Tepat Waktu",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danapix%2Fbannerdanapik.png?alt=media&token=c3a169d0-c52a-4d8f-84b4-afa449e0d11a",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danapix%2F11%20Tips%20Bayar%20Pinjaman%20Online%20Tepat%20Waktu.html?alt=media&token=501f24fd-1e15-4b3f-80b5-0b03d84200ee",
+      "video": ""
+    },{
+      "id": 12,
+      "category": "Tips Pinjaman Online DanaFix",
+      "title": "Tips Mengenali Pinjaman Online yang Aman",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danapix%2Fbannerdanapik.png?alt=media&token=c3a169d0-c52a-4d8f-84b4-afa449e0d11a",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danapix%2F12%20Tips%20Mengenali%20Pinjaman%20Online%20yang%20Aman.html?alt=media&token=f92e104b-e7e2-47b5-82f7-6d2244adb10e",
+      "video": ""
+    },{
+      "id": 13,
+      "category": "Tips Pinjaman Online DanaFix",
+      "title": "Tips Mengenali Pinjaman Online Ilegal",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danapix%2Fbannerdanapik.png?alt=media&token=c3a169d0-c52a-4d8f-84b4-afa449e0d11a",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danapix%2F13%20Tips%20Mengenali%20Pinjaman%20Online%20Ilegal.html?alt=media&token=8552fb2a-2fc8-4328-8d42-8032dcaa0427",
+      "video": ""
+    },{
+      "id": 14,
+      "category": "Tips Pinjaman Online DanaFix",
+      "title": "Tips Pinjaman Agar Cepat Cair",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danapix%2Fbannerdanapik.png?alt=media&token=c3a169d0-c52a-4d8f-84b4-afa449e0d11a",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/danapix%2F14%20Tips%20Pinjaman%20Agar%20Cepat%20Cair.html?alt=media&token=833fb40a-8496-4d33-a512-0a1167f53621",
+      "video": ""
+    }
+	
+  ],
+  "more_apps": [
+    
+  ]
+}
